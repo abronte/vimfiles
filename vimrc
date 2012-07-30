@@ -12,6 +12,7 @@ set shell=/bin/bash
 " file management
 set nobackup                     " turn off automatic creation of backup files
 set nowritebackup                " makes vim write buffer to file
+set noswapfile                   " turn off swap files
 
 colorscheme jellybeans
 

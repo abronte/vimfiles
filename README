@@ -1,0 +1,5 @@
+To install plugins:
+rake install
+
+To update plugins:
+rake update
